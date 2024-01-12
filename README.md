@@ -4,22 +4,15 @@ This repository features a machine learning project predicting Boston housing pr
 
 ### Key Features:
 
-### Predictive Model:
- Our linear regression model is meticulously trained on a thoughtfully selected subset of the dataset, ensuring accurate forecasts for housing prices.
-
-### Influential Factors: 
-Explore how our model considers crucial factors like crime rates, rooms per dwelling, highway accessibility, and more, providing a nuanced understanding of the housing market.
+**Predictive Model:** The linear regression model is meticulously trained on a thoughtfully selected subset of the dataset, ensuring accurate forecasts for housing prices.
+**Influential Factors:** The model considers crucial factors like crime rates, rooms per dwelling, highway accessibility, and more, providing a nuanced understanding of the housing market.
 
 ### Technological Stack:
 
-### Python:
- The project is crafted using Python, a versatile and powerful programming language.
-### Libraries:
- Leveraging the capabilities of NumPy, pandas, and scikit-learn for efficient data manipulation and machine learning.
-### Web Development with Flask:
- Experience the seamless integration of Flask, a web development framework in Python, adding an interactive layer to the project.
-### Containerization with Docker:
- Deploy and scale our solution effortlessly using Docker, ensuring a consistent and reliable environment.
+**Python:** The project is crafted using Python, a versatile and powerful programming language.
+**Libraries:**  Leveraging the capabilities of NumPy, pandas, and scikit-learn for efficient data manipulation and machine learning.
+**Web Development with Flask:** Experience the seamless integration of Flask, a web development framework in Python, adding an interactive layer to the project.
+**Containerization with Docker:** Deploy and scale our solution effortlessly using Docker, ensuring a consistent and reliable environment.
  
 ### Software and Tools Requirements
 
