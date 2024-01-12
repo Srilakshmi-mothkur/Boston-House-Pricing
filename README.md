@@ -15,8 +15,6 @@ This repository features a machine learning project predicting Boston housing pr
 **Libraries:**  Leveraging the capabilities of NumPy, pandas, and scikit-learn for efficient data manipulation and machine learning.
 
 **Web Development with Flask:** Experience the seamless integration of Flask, a web development framework in Python, adding an interactive layer to the project.
-
-**Containerization with Docker:** Deploy and scale our solution effortlessly using Docker, ensuring a consistent and reliable environment.
  
 ### Software and Tools Requirements
 
